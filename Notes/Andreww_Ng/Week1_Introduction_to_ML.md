@@ -56,7 +56,7 @@
 ---
 
 # 2. Linear Regression & Cost Function
-**Notation**: Aligned with Andrew Ng's ML Specialization (2023)
+
 
 ---
 
